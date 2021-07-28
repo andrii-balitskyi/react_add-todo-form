@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css","Todo.css"],"names":[],"mappings":"AAAA,KACE,YACF,CCFA,YACE,6BAAsB,CAAtB,qBAAsB,CACtB,sCACF,CAEA,aACE,UACF","file":"main.aebb720f.chunk.css","sourcesContent":[".App {\n  padding: 30px;\n}\n",".item-title {\n  max-width: max-content;\n  border-bottom: solid 1px rgba(8, 8, 8, 0.3);\n}\n\n.item-status {\n  opacity: 0.3;\n}\n"]}
